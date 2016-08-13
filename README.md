@@ -4,8 +4,8 @@ by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, withou
 
 Some simple games written in C language.
 
-Version: no version
-Date: 20th February 2006 (approximately).
+Version: different versions 
+Date: 2006 to 2007.
 
 
 Description
