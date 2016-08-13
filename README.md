@@ -5,7 +5,7 @@ by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, withou
 Some simple games written in C language.
 
 Version: different versions 
-Date: 2006 to 2007.
+- Date: 2006 to 2007.
 
 
 Description
