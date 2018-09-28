@@ -11,7 +11,7 @@ Version: different versions
 ![ScreenShot](screenshot.gif)
 
 
-Description
+## Description
 
 Some games I made during the time I was studying the "Programació estructurada i modular / Programación estructurada y modular" (Structured and modular programming) subject that belonged to "CFGS DAI (Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Informáticas)" which is a Software development associate degree equivalent (similar to Foundation degree in the UK, Diploma of Higher Education in Scotland or Higher Certificate in the Republic of Ireland) at IES Baix Camp school in Reus city (Spain).
 
